@@ -4,6 +4,34 @@
 ---------|---------
 !You can use the [editor on GitHub](https://github.com/liu673cn/liu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. | !Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+1.大标题
+====
+2.中标题  
+-------
+
+# 一级标题  
+## 二级标题  
+### 三级标题  
+#### 四级标题  
+##### 五级标题  
+###### 六级标题 
+
+这是一段普通的文本，\<br>换行要使用\<br>  
+
+Thank `You` . Please `Call` Me `Coder`
+
+* 编程语言  
+    * 脚本语言  
+        * Python
+
+>数据结构  
+>>树  
+>>>二叉树  
+>>>>平衡二叉树  
+>>>>>满二叉树
+
+[我的博客](http://blog.csdn.net/ "悬停显示")
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
